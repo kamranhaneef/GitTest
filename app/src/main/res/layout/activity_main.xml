@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="78dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="407dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="78dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="206dp"
+        tools:layout_editor_absoluteY="527dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="78dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="315dp"
+        tools:layout_editor_absoluteY="527dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="78dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="527dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="74dp"
+        android:layout_height="94dp"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="408dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="76dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="317dp"
+        tools:layout_editor_absoluteY="408dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="76dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="319dp"
+        tools:layout_editor_absoluteY="76dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="78dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="76dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="74dp"
+        android:layout_height="94dp"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="76dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="78dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="195dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="74dp"
+        android:layout_height="94dp"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="194dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="76dp"
+        android:layout_height="93dp"
+        tools:layout_editor_absoluteX="319dp"
+        tools:layout_editor_absoluteY="195dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="307dp"
+        tools:layout_editor_absoluteY="667dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="667dp" />
+
+    <android.support.design.widget.NavigationView
+        android:layout_width="92dp"
+        android:layout_height="365dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="3dp">
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="Option1" />
+    </android.support.design.widget.NavigationView>
+
+</android.support.constraint.ConstraintLayout>
